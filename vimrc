@@ -1,7 +1,7 @@
 set shiftwidth=2 tabstop=2 softtabstop=2
 set smarttab smartindent autoindent expandtab
 set number
-colorscheme ron
+colorscheme evening
 set hlsearch
 set nocompatible
 set paste

@@ -35,5 +35,3 @@ export JAVA_OPTS="-Xms512m -Xmx2g -Xss1m -XX:PermSize=128m -XX:MaxPermSize=256m 
 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-
- export TERM=xterm-16color
