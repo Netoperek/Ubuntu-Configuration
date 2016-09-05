@@ -1,5 +1,3 @@
-set shiftwidth=2 tabstop=2 softtabstop=2
-set smarttab smartindent autoindent expandtab
 set number
 colorscheme evening
 set hlsearch
@@ -24,3 +22,5 @@ call vundle#end()
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+set shiftwidth=2 tabstop=2 softtabstop=2
+set smarttab smartindent expandtab
